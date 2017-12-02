@@ -4,27 +4,34 @@ html {
   font-family: verdana;
   font-weight: normal;
 }
+/* Top header */
 h1 {
   font-size: 50px;
   color: white;
 }
-  /* Call to Action */
+
+/* Call to Action */
 .cta {
   color: #7fffd4;
   font-size: 16px;
 }
+
+/* middle of page header */
 h2 {
   font-weight: 300;
   font-size: 42px;
   color: white;
 }
+
 /* Application Description middle page */
 .app-description {
   color: gray;
   font-weight: 300;
   font-size: 21px;
   }
-  .copywright {
+
+/*Footern */
+.copywright {
     text-align: right;
     color: gray;
   }
