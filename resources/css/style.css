@@ -1,0 +1,15 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+  /* Call to Action */
+.cta {
+  color: #7fffd4;
+  font-size: 16px;
+}
