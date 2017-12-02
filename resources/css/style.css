@@ -24,3 +24,7 @@ h2 {
   font-weight: 300;
   font-size: 21px;
   }
+  .copywright {
+    text-align: right;
+    color: gray;
+  }
